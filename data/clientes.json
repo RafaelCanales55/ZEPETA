@@ -1,0 +1,24 @@
+[
+    {
+        "folio": "TO20260623-001",
+        "nombre": "Luis",
+        "apellido": "Torres Medina",
+        "curp": "LUIS0000110SAHDSA7",
+        "sexo": "Masculino",
+        "fecha_nacimiento": "2026-06-03",
+        "domicilio": "EJEMPLO DE DOMICILIO",
+        "telefono": "55 33334444",
+        "servicio": "Residencias"
+    },
+    {
+        "folio": "CA20260827-001",
+        "nombre": "Rafael",
+        "apellido": "Canales",
+        "curp": "CAPR031010HDFNZFA6",
+        "sexo": "Nada",
+        "fecha_nacimiento": "2026-08-26",
+        "domicilio": "Prol.20 Mz20",
+        "telefono": "55 5555 5555",
+        "servicio": "Social :)"
+    }
+]
