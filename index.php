@@ -8,7 +8,7 @@ if(isset($_GET['pdf'])){
 
 //BASE_URL correctamente del localhost
 if(!defined('BASE_URL')){
-    define('BASE_URL', 'http://localhost:/sistema_zepeta_completo/');
+    define('BASE_URL', 'https://rafaelcanales55.github.io/ZEPETA/sistema_zepeta_completo/');
 }
 ?>
 
